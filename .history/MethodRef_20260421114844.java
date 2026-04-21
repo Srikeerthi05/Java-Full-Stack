@@ -1,0 +1,6 @@
+import java.util.*;
+class MethodRef{
+    public static void main(String args[]){
+        List<String> list= Arrays.asList("Keerthi","Teertha","Vikas","Smaran")
+    }
+}
